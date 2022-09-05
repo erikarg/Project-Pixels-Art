@@ -16,4 +16,4 @@ This project was developed using HTML, CSS and JavaScript.
 
 ## Deploy
 
-Check out: https://erikarg.github.io/Project-Pixels-Art/
+Check it out: https://erikarg.github.io/Project-Pixels-Art/
