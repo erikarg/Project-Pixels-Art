@@ -1,0 +1,79 @@
+body {
+  background-image: url('wallpaper.webp');
+  background-repeat: round;
+  background-size: contain;
+}
+
+h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 20px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.color {
+  border: 1px solid black;
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+}
+
+#color-palette {
+  display: block;
+  text-align: center;
+}
+
+#black {
+  background-color: black;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#red {
+  background-color: red;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+.pixel {
+  border: 1px solid black;
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+}
+
+#pixel-board {
+  margin: 2% auto;
+  text-align: center;
+}
+
+#clear-board {
+  border: 1px solid black;
+  display: block;
+  margin: 0 auto;
+  margin-top: 25px;
+  padding: 5px;
+}
+
+#board-size , #generate-board {
+  border: 1px solid black;
+  margin-top: 15px;
+  padding: 5px;
+}
+
+#generate-new-board {
+  display: flex;
+  float: left;
+  margin-left: 46%;
+  margin-right: 10px;
+}
+
+#generate-new-board-button {
+  display: flex;
+  justify-content: left;
+}
