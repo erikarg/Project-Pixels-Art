@@ -13,3 +13,7 @@ This project was developed using HTML, CSS and JavaScript.
 - Enhanced problem modeling capability;
 - Enhanced DOM manipulation;
 - Enhanced JavaScript manipulation;
+
+## Deploy
+
+Check out: https://erikarg.github.io/Project-Pixels-Art/
